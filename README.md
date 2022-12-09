@@ -1,6 +1,5 @@
 ### Olá 👋
-
-Eu sou Márcia Virginia, sou uma Programadora Front-end, atualmente estou aprendendo e criando projetos com:
+Me chamo Márcia Virginia, sou uma Programadora Front-end, atualmente estou aprendendo e criando projetos com:
 <br>
 <br>
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
