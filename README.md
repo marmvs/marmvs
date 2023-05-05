@@ -1,4 +1,4 @@
-### Olá 👋
+### Olá 👋<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 Eu sou Márcia Virginia, uma Programadora Front-end, atualmente estou aprendendo e criando projetos com:
 <br>
 <br>
