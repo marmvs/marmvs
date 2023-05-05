@@ -4,6 +4,7 @@ Eu sou Márcia Virginia, uma Programadora Front-end, atualmente estou aprendendo
 <br>
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>
+- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 [![Márcia Stats](https://github-readme-stats.vercel.app/api?username=marmvs)](https://github.com/anuraghazra/github-readme-stats)
 
